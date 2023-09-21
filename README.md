@@ -17,3 +17,6 @@ MacOS menu bar app for managing AWS CLI nonsense
 
 4. Build MacOS app in xcode as distributable archive.
 5. [Optional] Copy the app into `Applications`.
+
+## Upcoming
+- [ ] Support for multiple AWS accounts
